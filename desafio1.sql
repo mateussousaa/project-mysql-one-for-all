@@ -5,7 +5,7 @@ CREATE DATABASE SpotifyClone;
 CREATE TABLE SpotifyClone.planos (
   id_plano INT PRIMARY KEY NOT NULL AUTO_INCREMENT,
   nome VARCHAR(45) NOT NULL,
-  valor FLOAT NOT NULL
+  valor DECIMAL(10,2) NOT NULL
 ) ENGINE = InnoDB;
 
 CREATE TABLE SpotifyClone.usuarios (
