@@ -70,7 +70,7 @@ VALUES ('Barbara Liskov', 1, 82, '2019-10-20'),
 ('Paulo Freire', 3, 19, '2018-02-14'),
 ('Bell Hooks', 3, 26, '2018-01-05'),
 ('Christopher Alexander', 4, 85, '2019-06-05'),
-('Judith  Butler', 4, 45, '2020-05-13'),
+('Judith Butler', 4, 45, '2020-05-13'),
 ('Jorge Amado', 4, 58, '2017-02-17');
 
 INSERT INTO SpotifyClone.artistas (nome)
